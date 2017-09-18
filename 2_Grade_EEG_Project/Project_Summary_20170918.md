@@ -1,7 +1,7 @@
 # Play Asphalt with EEG
 
 ### 주제 : 뇌파 분석을 통한 'Asphalt' 게임 플레이
-![Asphalt](https://github.com/NoNamedSelfDriveing/JumpUP/blob/master/2_Grade_EEG_Project/Asphalt.PNG)
+![Asphalt](Asphalt.jpg)
 -----
 ### 개발 동기
 뇌파를 이용한 프로젝트를 이전부터 계속 기획하고 있었습니다. 이번 JUMP UP 캠프를 기회로 삼아, 뇌파 데이터를 직접 수집하고 프로세싱하는 작업을 진행해 볼 예정입니다.
